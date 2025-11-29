@@ -1,0 +1,15 @@
+title: "Nanthini — Data Analyst"
+description: "Portfolio showcasing SQL, Power BI, Python and analytics projects"
+theme: jekyll-theme-primer
+
+navigation:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Projects
+    link: /projects
+  - name: Certifications
+    link: /certifications
+  - name: Contact
+    link: /contact
