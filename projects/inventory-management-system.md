@@ -16,8 +16,3 @@ Python (Tkinter), SQLite or MySQL, Pandas (for exports), CSV
 - Reduced manual tracking and errors  
 - Faster invoice generation for non-technical staff  
 - Simple data export for accounting and audits
-
-## 📂 Files to upload
-- inventory_app/inventory_app.py  
-- inventory_app/database_schema.sql  
-- inventory_app/README.md (how to run the app)
